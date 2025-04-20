@@ -81,7 +81,7 @@ const HeroSection = () => {
             backgroundClip: 'text',
             display: 'inline-block',
           }}>
-          Frontend Developer & Product Designer skilled in building scalable, user-centric digital experiences. I craft intuitive interfaces by blending design thinking with modern development practices to drive real-world impact.
+          Developer & Product Designer skilled in building scalable, user-centric digital experiences. I craft intuitive interfaces by blending design thinking with modern development practices to drive real-world impact.
         </motion.p>
 
         <motion.div
