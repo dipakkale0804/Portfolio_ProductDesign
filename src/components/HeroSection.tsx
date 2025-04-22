@@ -101,7 +101,7 @@ const HeroSection = () => {
 
           {/* Resume Button */}
           <motion.a
-            href="https://drive.google.com/file/d/1lW9P35D5t6YZ-Example-ResumeLink/view?usp=sharing" // replace with your actual resume link
+            href="https://drive.google.com/file/d/1K3v23avSUT1nJdqAZXgaB_8MQkd9okeG/view?usp=sharing" 
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
